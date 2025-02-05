@@ -5,7 +5,8 @@
 This Project builds a system to automatically process and generate game highlights. RapidAPI is used to obtain game highlights using Docker containers and AWS Elemental Converter to transcode game highlights into multiple resolutions for different platforms.
 
 ## Technical Diagram
-![highlightsprocessor drawio](https://github.com/user-attachments/assets/2554461b-d507-4aaf-92aa-5424ec7880b7)
+![highlightsprocessor drawio](https://github.com/user-attachments/assets/91861a62-3b5a-481d-bccb-74edae551671)
+
 
 
 
@@ -127,7 +128,8 @@ The following files should be saved in your S3 bucket, Go to your Buckets in you
 - videos/first_video.mp4
 - processed_videos/
 
-<img width="1131" alt="Screenshot 2025-02-04 at 6 19 46 AM" src="https://github.com/user-attachments/assets/c967c201-01bf-4ba6-be8a-97e29f2ac3fb" />
+<img width="1131" alt="Screenshot 2025-02-04 at 6 19 46 AM" src="https://github.com/user-attachments/assets/784f3aa8-c521-4a03-aad7-d16ed850c38a" />
+
 
 
 ## Key Takeaways
