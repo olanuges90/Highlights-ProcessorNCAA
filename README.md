@@ -118,7 +118,7 @@ Build the Docker Image:
 ```bash
 docker build -t highlight-processor .
 ```
-Run the Docker Container: 
+Run the Docker Container while passing environment variables from a file named .env: 
 ```bash
 docker run --env-file .env highlight-processor
 ```
