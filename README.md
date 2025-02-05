@@ -132,6 +132,16 @@ The following files should be saved in your S3 bucket, Go to your Buckets in you
 
 
 
+- Look for a video file named first_video in the videos/ folder within your S3 bucket. Click the video and Open.
+  
+<img width="770" alt="Screenshot 2025-02-05 at 4 08 23 AM" src="https://github.com/user-attachments/assets/4e0002ad-8328-45e1-88a7-2d7bafc9a04d" />
+
+
+
+
+
+
+
 ## Key Takeaways
 Docker and AWS Integration.
 Identity and Access Management (IAM) and Principle of Least Priviledge.
