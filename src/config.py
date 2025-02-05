@@ -3,9 +3,9 @@
 # Import the 'os' module to access environment variables
 import os
 
-###################################
+##################################
 # RapidAPI & Fetch-Related Config
-###################################
+##################################
 
 # The base URL for the sports highlights API. 
 # If the 'API_URL' environment variable is not set, it defaults to the provided URL.
