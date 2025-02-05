@@ -13,7 +13,7 @@ This Project builds a system to automatically process and generate game highligh
 
 ## File Overview
 - config.py: Handles environment variables for dynamic and flexible configuration management for various environments.  (e.g development, staging and production).
-- fetch.py: Fetches NCAA game highlights from RapidAPI and saves them as a JSON file in S3 Bucket as a JSON format(basketball_highlights.json).
+- fetch.py: Fetches NCAA game highlights from RapidAPI and saves them as a JSON format in S3 Bucket as a JSON format(basketball_highlights.json).
 - process_one_video.py: Downloads the first video from the JSON file , saves it in the S3 Bucket under the videos folder and logs each step.
 - mediaconvert_process.py: Configures MediaConvert jobs for video processing and stores the output in S3.
 - run_all.py: Executes all scripts sequentially incorpoerating buffer time between tasks.
