@@ -55,7 +55,7 @@ This Project builds a system to automatically process and generate game highligh
   
   ## Step 1: Clone the repository
 ```sh 
-https://github.com/olanuges90/HighlightsProcessorNCAA
+https://github.com/olanuges90/Highlights-ProcessorNCAA
 cd src
 ```
 ## Step 2: Add API Key to AWS Secrets Manager
