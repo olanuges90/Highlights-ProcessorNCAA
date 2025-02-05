@@ -31,7 +31,7 @@ This Project builds a system to automatically process and generate game highligh
     - Python 3: Install Python 3. Verify Installation: python --version
   
 3. AWS Account ID: Retrieve from the AWS Management Console.
-    - Go to your AWS acount, click on your account name in the top right corner and copy your account ID. Keep in a safe place.
+    - Go to your AWS account, click on your account name in the top right corner and copy your account ID. Keep in a safe place.
 4. AWS Credentials: Retrieve ACCESS Key and Secret Key
    - Log in to the AWS Management Console.
    - Go to IAM (Identity and Access Management).
