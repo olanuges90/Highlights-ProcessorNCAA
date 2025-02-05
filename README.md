@@ -1,4 +1,4 @@
-# Building NCAA Game Highlights Processor using Docker & AWS ECS, ECR, and AWS Elemental Converter.
+# Building NCAA Game Highlights Processor using Docker & AWS ECR, and AWS Elemental Converter.
 
 ## Project Overview
 
